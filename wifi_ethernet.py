@@ -1,3 +1,7 @@
+#1. Change the ethernet device name in code 
+#2. run the code as root
+#3. shud change the NET.txt first according to the corrent connection 'E'for ethernet and 'W'for wlan
+
 import os
 #cheking for ping
 hostname = "google.com"
